@@ -27,7 +27,7 @@ const Hero = () => {
             </p>
 
             <div className="flex gap-4 mt-10">
-                <a className="border border-[#2a2a2a] py-2 sm:py-3 px-4 sm:py-5 rounded-full sm:text-lg text-sm font-semibold tracking-wider transtion-all duration-300 hover:bg-white hover:text-black" href="#">
+                <a className="border border-[#2a2a2a] py-2 sm:py-3 px-4 sm:py-5 rounded-full sm:text-lg text-sm font-semibold tracking-wider transtion-all duration-300 hover:bg-white hover:text-black" href="https://github.com/ayushgitt/3D-static-page/tree/main/my-project">
                     Documentation <i class="bx bx-link-external"></i>
                 </a>
 

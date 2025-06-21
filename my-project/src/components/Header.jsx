@@ -25,22 +25,22 @@ const Header = () => {
         <nav className='hidden md:flex items-center gap-12 sm:text-2xl'>
             <a data-aos="fade-down"
                data-aos-easing="linear"
-               data-aos-duration="1000" className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='https://portf-beta-five.vercel.app/'>
+               data-aos-duration="1000" className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='https://latest-port-kohl.vercel.app/'>
                 PORTFOLIO
             </a>
             <a data-aos="fade-down"
                data-aos-easing="linear"
-               data-aos-duration="1500"className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='#'>
+               data-aos-duration="1500"className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='https://latest-port-kohl.vercel.app/'>
                 ABOUT ME
             </a>
             <a data-aos="fade-down"
               data-aos-easing="linear"
-              data-aos-duration="2000"className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='#'>
+              data-aos-duration="2000"className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='https://latest-port-kohl.vercel.app/#contact'>
                 CONTACT
             </a>
              <a data-aos="fade-down"
                 data-aos-easing="linear"
-                data-aos-duration="2500" className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='https://portf-beta-five.vercel.app/project'>
+                data-aos-duration="2500" className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='https://latest-port-kohl.vercel.app/#project'>
                 PROJECTS
             </a>
 
@@ -60,16 +60,16 @@ const Header = () => {
         {/*mobile menu-hidden by default */}
         <div id='mobilMenu' className='hidden fixed top-16 bottom-0 right-0 left-0 p-5 md:hidden z-40 bg-black bg-opacity-10 backdrop-blur-md'>
             <nav className='flex flex-col gap-6 items-center'>
-                <a className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='https://portf-beta-five.vercel.app/'>
+                <a className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='https://latest-port-kohl.vercel.app/'>
                 PORTFOLIO
                 </a>
                 <a className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='#'>
                 ABOUT ME
                 </a>
-                <a className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='#'>
+                <a className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='https://latest-port-kohl.vercel.app/#contact'>
                 CONTACT
                 </a>
-                <a className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='https://portf-beta-five.vercel.app/project'>
+                <a className='text-base tracking-wider transition-color hover:text-grey-300 z-50' href='https://latest-port-kohl.vercel.app/#project'>
                 PROJECTS
                 </a>
 
